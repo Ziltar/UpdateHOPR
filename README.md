@@ -2,15 +2,9 @@
 
 Commands:
 
-git clone https://github.com/Ziltar/UpdateHOPR && cd UpdateHOPR/
+1. `git clone https://github.com/Ziltar/UpdateHOPR && cd UpdateHOPR/`
+2. `sudo apt-get install tmux`
+3. `tmux` 
+4. `chmod +x updateHopr.sh && ./updateHopr.sh`
 
-sudo apt-get install tmux
-
-tmux 
-
-chmod +x updateHopr.sh
-
-./updateHopr.sh
-
-
-API Token: Fk80!5L-faaO1R47m!kThkL
+**API Token**: Fk80!5L-faaO1R47m!kThkL
