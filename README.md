@@ -7,4 +7,3 @@ Commands:
 3. `tmux` 
 4. `chmod +x updateHopr.sh && ./updateHopr.sh`
 
-**API Token**: Fk80!5L-faaO1R47m!kThkL
