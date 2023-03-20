@@ -1,5 +1,5 @@
 
-# UpdateHOPR Version: 1.92.9
+# UpdateHOPR Version: 1.92.12
 
 **Commands:**
 
